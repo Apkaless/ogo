@@ -1,6 +1,4 @@
 
-# ProblemSolving.py
-
 ## Description
 
 This script is a console-based application designed to manage QoS (Quality of Service) policies for games on a Windows system using PowerShell. The application provides a simple interface to list all games in the QoS list, add new games, and remove existing games.
@@ -29,10 +27,6 @@ This script is a console-based application designed to manage QoS (Quality of Se
 
 ## Usage
 
-1. Run the script:
-    ```bash
-    python ProblemSolving.py
-    ```
 2. Follow the on-screen prompts to choose an option:
     - Option 1: Get all games in the QoS list
     - Option 2: Add a new game
