@@ -27,7 +27,7 @@ This script is a console-based application designed to manage QoS (Quality of Se
 
 ## Usage
 
-2. Follow the on-screen prompts to choose an option:
+. Follow the on-screen prompts to choose an option:
     - Option 1: Get all games in the QoS list
     - Option 2: Add a new game
     - Option 3: Remove a game
