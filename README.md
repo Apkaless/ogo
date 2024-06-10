@@ -9,12 +9,6 @@ This script is a console-based application designed to manage QoS (Quality of Se
 - **Add a new game**: Add a new game to the QoS policy by providing the game's name and executable file path.
 - **Remove a game**: Remove a game from the QoS policy by providing the game's name.
 
-## Requirements
-
-- Python 3.x
-- `colorama` library
-- `tkinter` library (usually included with Python)
-- PowerShell installed on the system
 
 ## Installation
 
@@ -32,15 +26,6 @@ This script is a console-based application designed to manage QoS (Quality of Se
     - Option 2: Add a new game
     - Option 3: Remove a game
 
-## Functions
-
-- **start()**: Displays the main menu and prompts the user to choose an option.
-- **path_validator(path)**: Validates the given path to ensure it points to an executable file.
-- **get_powershell_path()**: Retrieves the path to the PowerShell executable.
-- **SetNewQosPolicy(rule_name, path)**: Adds a new game to the QoS policy.
-- **RemoveQosPolicy(rule_name)**: Removes a game from the QoS policy.
-- **GetQosPolicy()**: Retrieves and displays all games in the QoS list.
-- **browseFile()**: Opens a file dialog to select a game executable file.
 
 ## Example
 
@@ -53,6 +38,3 @@ This script is a console-based application designed to manage QoS (Quality of Se
     - Choose option 3.
     - Enter the game name to remove it from the QoS list.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
