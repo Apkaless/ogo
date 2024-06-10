@@ -10,15 +10,6 @@ This script is a console-based application designed to manage QoS (Quality of Se
 - **Remove a game**: Remove a game from the QoS policy by providing the game's name.
 
 
-## Installation
-
-1. Clone the repository or download the script.
-2. Install the required Python libraries:
-    ```bash
-    pip install colorama
-    ```
-3. Ensure you have PowerShell installed and accessible in your system's PATH.
-
 ## Usage
 
 1. Follow the on-screen prompts to choose an option:
